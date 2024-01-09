@@ -1,7 +1,7 @@
 version: "3.7"
 services:
   web:
-    image: ghcr.io/hugofara/lwt:master
+    image: ghcr.io/programcomputer/lwt:youtube-dl
     container_name: lwt
     depends_on:
       - db
