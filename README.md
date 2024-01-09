@@ -8,7 +8,7 @@
 This repository is a Docker installer, the main repository can be found at
 <https://github.com/ProgramComputer/lwt>.
 
-[![LWT logo](https://github.com/ProgramComputer/lwt/raw/master/img/lwt_icon_big.jpg)](https://github.com/ProgramComputer/lwt)
+[![LWT logo](https://github.com/ProgramComputer/lwt/raw/youtube-dl/img/lwt_icon_big.jpg)](https://github.com/ProgramComputer/lwt)
 
 ## Prerequisites
 
